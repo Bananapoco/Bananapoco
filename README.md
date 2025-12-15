@@ -1,6 +1,6 @@
 - Hello! I’m @Bananapoco
-- I'm in school learning game design in Unity
-- Currently I am learning how to get better at programming and gamedev. Eventually I want to learn Unreal as well.
+- I'm a TAMU student who likes making silly projects in my free time
+- Currently refining my portfolio for NVDIA internship application this summer
 
 <!---
 Bananapoco/Bananapoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
