@@ -1,5 +1,5 @@
 - Hello! I’m @Bananapoco
-- I'm a TAMU engineering student who likes making silly projects in my free time
+- I'm a TAMU engineering student who does web and game dev in my free time
 - Currently refining my portfolio for NVDIA internship application this summer
 - Other hobbies include music production and drawing cartoons
 
